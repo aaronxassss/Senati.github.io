@@ -7,7 +7,6 @@ Archivos:
 - mis-mascotas.html
 - mis-peliculas.html
 - yo-soy.html
-- yo-soy.jpeg
 
 IMPORTANTE:
 1. Mantén todos estos archivos en la misma carpeta.
@@ -15,4 +14,4 @@ IMPORTANTE:
 3. index.html solo sirve como puente para que GitHub Pages o un hosting abra main.html automáticamente.
 4. Si tu profesor quiere que el enlace muestre "main", comparte directamente la URL que termina en /main.html.
 5. No cambies los nombres de los archivos sin actualizar los href o src del HTML.
-6. Las imágenes de Hobbies, Mascotas, Películas y la página principal usan enlaces externos; necesitan Internet para mostrarse.
+6. Las imágenes de Hobbies, Mascotas, Películas, la página principal y Yo soy usan enlaces externos; necesitan Internet para mostrarse.
